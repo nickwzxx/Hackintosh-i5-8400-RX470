@@ -43,6 +43,7 @@
 - **Do not forget to generate iMacPro1,1 SMBIOS with GenSMBIOS and insert it to config through ProperTree**
 - **Do not forget to map your USB with USBToolBox and put your UTBMap kext into Kexts folder (There is already USBToolBox kext)**
 - **Do not forget to make your own SSDT's with SSDTTime and put them into ACPI folder (I put prebuilt ones and if you are too lazy you can skip this)**
+- **Do not forget to disable UHD graphics in UEFI BIOS**
 
 ## Gallery
 ![Screenshot 1](https://user-images.githubusercontent.com/116093195/196487794-c5f11050-51c5-41fa-a2ff-a9768b7f00a0.png)
