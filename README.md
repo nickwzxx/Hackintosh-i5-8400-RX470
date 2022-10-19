@@ -31,13 +31,13 @@
 - FileVault
 - All types of DRM
 - OpenCore GUI
+- macOS Updates
 
 ### Doesn't work:
 - Everything works fine (I think)
 
 ### I didn't test:
 - DisplayPort output
-- macOS Updates
 
 ## Do not forget!
 - **Do not forget to generate iMacPro1,1 SMBIOS with GenSMBIOS and insert it to config through ProperTree**
@@ -47,5 +47,5 @@
 
 ## Gallery
 ![Screenshot 1](https://user-images.githubusercontent.com/116093195/196487794-c5f11050-51c5-41fa-a2ff-a9768b7f00a0.png)
-![Screenshot 2](https://user-images.githubusercontent.com/116093195/196487847-6661e31e-78ea-4b79-b21e-50db392af58f.png)
+![Screenshot 2](https://user-images.githubusercontent.com/116093195/196632143-9993e357-6544-449c-9c88-89fc51a81351.png)
 
