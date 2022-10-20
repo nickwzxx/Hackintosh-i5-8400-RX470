@@ -22,7 +22,7 @@
 **This is my personal home project. I have no responsibility for any damage caused by the release of this project.**
 
 ## About Hackintosh:
-- Works on macOS Big Sur, Monterey and Ventura (Beta 11)
+- Works on macOS Big Sur, Monterey and Ventura (RC)
 - It's a release version of OpenCore 0.8.5.
 - Any debug thing is disabled, only OpenCore bootloader with GUI and Apple Logo
 
