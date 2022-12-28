@@ -22,7 +22,7 @@
 **This is my personal home project. I have no responsibility for any damage caused by the release of this project.**
 
 ## About Hackintosh:
-- Works on macOS Big Sur, Monterey and Ventura (RC)
+- Works on macOS Big Sur, Monterey and Ventura
 - It's a release version of OpenCore 0.8.5.
 - Any debug thing is disabled, only OpenCore bootloader with GUI and Apple Logo
 
@@ -37,7 +37,8 @@
 - Everything works fine (I think)
 
 ### I didn't test:
-- DisplayPort output
+- DP Output
+- HDMI/DP Audio
 
 ## Do not forget!
 - **Do not forget to generate iMacPro1,1 SMBIOS with GenSMBIOS and insert it to config through ProperTree**
